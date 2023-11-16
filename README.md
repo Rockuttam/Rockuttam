@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Full stack web development, Data structure, Digital marketing, Drop-shipping.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Soumitra2468](https://github.com/Soumitra2468)
+- 👨‍💻 All of my projects are available at [https://github.com/Rockuttam](https://github.com/Rockuttam)
 
 - 💬 Ask me about **Full stack web development, Data structure, Digital marketing, Drop-shipping.**
 
