@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Full stack web development, Data structure, Digital marketing, Drop-shipping.**
 
-- 📫 How to reach me **ssoumitra2468@gmail.com**
+- 📫 How to reach me **uttamr16cv381@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
