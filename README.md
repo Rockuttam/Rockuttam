@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumitra2468" alt="soumitra2468" /></a> </p>
 
-- 🔭 I’m currently working on [Amazon web clone](https://soumitra2468.github.io/amazon-web-page-clone/)
+- 🔭 I’m currently working on [Amazon web clone](file:///C:/Users/Uttam%20Samanta/Desktop/My%20project/amazon%20clone/amazone.html)
 
 - 🌱 I’m currently learning **Full stack web development, Data structure, Digital marketing, Drop-shipping.**
 
